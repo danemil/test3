@@ -1,0 +1,15 @@
+{
+  "domain": "reteleelectrice",
+  "name": "Rețele Electrice",
+  "codeowners": [
+    "@digital-forge-mn"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/digital-forge-mn/reteleelectrice-local",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/digital-forge-mn/reteleelectrice-local/issues",
+  "requirements": [
+    "beautifulsoup4>=4.12.0"
+  ],
+  "version": "1.2.0"
+}
